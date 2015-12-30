@@ -1,0 +1,14 @@
+{
+  "name": "react-jspm-seed",
+  "version": "0.0.1",
+  "description": "A little React + JSPM seed project",
+  "author": "Adam Johnston",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjohnston/react-jspm-seed.git"
+  },
+  "devDependencies": {
+    "jspm": "^0.16.19"
+  }
+}
